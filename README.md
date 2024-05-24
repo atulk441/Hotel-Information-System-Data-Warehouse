@@ -1,3 +1,5 @@
+# Hotel Information System Data Warehouse
+
 ## **Abstract:** <br> 
 This project is designed to create a comprehensive system for managing data from two different branches of a hotel. It leverages the power of databases and incorporates a specialized database known as a data warehouse to efficiently store and organize this data. Additionally, the system features a user-friendly interface that allows users to easily view and interact with the stored information. Key functionalities include managing data related to guests, room reservations made, and rooms for both hotel branches.# Hotel-Information-System-Data-Warehouse.
 
