@@ -7,7 +7,7 @@ This project is designed to create a comprehensive system for managing data from
 The Hotel Management System Data Warehouse integrates two databases from different hotels. We utilized XAMPP, which includes Apache, for hosting the websites locally. This system also leverages MySQL for both the source databases and the data warehouse, which integrates them. With regards to the ETL processes, we used PHP to make sure that data is seamlessly loaded into the warehouse upon updates in the source databases. Lastly, to make it user-friendly, HTML and CSS are used to properly provide the skeleton and design of the website, along with the use of PHP which serves front-end and back-end functionalities. 
 
 ## **Installation Manual:** <br>
-To run this website on the device, the following steps must be followed:
+To run this website on the device, the following steps must be followed:<br>
 • Make sure you have XAMPP software installed already on your computer to host the website locally. Once downloaded, initiate the Apache and SQL service. <br>
 • Open the localhost/phpMyAdmin/index.php and run the code, by going to SQL tab,present in FinalSQLScript.sql to create source databases and warehouse.<br>
 • Download the file named Project and extract it to the xampp/htdocs/ <br>
