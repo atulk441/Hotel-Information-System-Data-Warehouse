@@ -8,9 +8,9 @@ The Hotel Management System Data Warehouse integrates two databases from differe
 
 ## **Installation Manual:** <br>
 To run this website on the device, the following steps must be followed:
-• Make sure you have XAMPP software installed already on your computer to host the website locally. Once downloaded, initiate the Apache and SQL service.
-• Open the localhost/phpMyAdmin/index.php and run the code, by going to SQL tab,present in FinalSQLScript.sql to create source databases and warehouse.
-• Download the file named Project and extract it to the xampp/htdocs/
-• Once done, open the localhost/project/loginpage.php to run the hotel management system and access all the information.
+• Make sure you have XAMPP software installed already on your computer to host the website locally. Once downloaded, initiate the Apache and SQL service. <br>
+• Open the localhost/phpMyAdmin/index.php and run the code, by going to SQL tab,present in FinalSQLScript.sql to create source databases and warehouse.<br>
+• Download the file named Project and extract it to the xampp/htdocs/ <br>
+• Once done, open the localhost/project/loginpage.php to run the hotel management system and access all the information.<br>
 
 For more info, please refer "Project Report.pdf" file in this same repository.
